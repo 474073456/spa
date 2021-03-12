@@ -1,0 +1,22 @@
+body,html {
+    margin:0;
+    padding:0;
+  }
+  
+  div{
+    width:400px;
+    height:50px;
+    margin: 50px auto;
+    font-size:20px;
+    text-align:center;
+  }
+  
+  input{
+    width:260px;
+    height:20px;
+  }
+  
+  i{
+    color:#ccc;
+    margin-Left:10px;
+  }
